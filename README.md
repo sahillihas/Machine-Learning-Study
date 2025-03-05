@@ -2,3 +2,4 @@
 
 - [ ] Decision Trees
 - [ ] Random Forest
+- [ ] XGBoost
