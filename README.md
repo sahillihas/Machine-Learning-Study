@@ -1,5 +1,5 @@
 # Study Notes and Code for Machine Learning
 
-- [x] Decision Trees
-- [ ] Random Forest
+- [X] Decision Trees
+- [X] Random Forest
 - [ ] XGBoost
