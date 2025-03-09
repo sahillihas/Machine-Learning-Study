@@ -2,6 +2,8 @@
 
 - [ ] Linear Regression
 - [ ] Logistic Regression
+- [ ] KNN
+- [ ] SVM
 - [X] Decision Trees
 - [X] Random Forest
 - [ ] XGBoost
