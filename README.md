@@ -7,3 +7,4 @@
 - [X] Decision Trees
 - [X] Random Forest
 - [ ] XGBoost
+- [ ] Gradient Boosting
