@@ -8,3 +8,4 @@
 - [X] Random Forest
 - [ ] XGBoost
 - [ ] Gradient Boosting
+- [ ] Feature Engineering
