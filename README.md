@@ -1,4 +1,4 @@
-# Study Notes and Code for Machine Learning
+# Notes and Notebook for Machine Learning
 
 - [ ] Linear Regression
 - [ ] Logistic Regression
@@ -9,3 +9,4 @@
 - [ ] XGBoost
 - [ ] Gradient Boosting
 - [ ] Feature Engineering
+
