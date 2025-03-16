@@ -1,5 +1,5 @@
 # Notes and Notebook for Machine Learning
-
+- [ ] Naives Bayes
 - [ ] Linear Regression
 - [ ] Logistic Regression
 - [ ] KNN
