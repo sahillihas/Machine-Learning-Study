@@ -6,7 +6,7 @@
 - [ ] SVM
 - [X] Decision Trees
 - [X] Random Forest
-- [X] XGBoost
+- [ ] XGBoost
 - [ ] Gradient Boosting
 - [ ] Feature Engineering
 
